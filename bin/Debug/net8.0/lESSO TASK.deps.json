@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lESSO TASK/1.0.0": {
+        "runtime": {
+          "lESSO TASK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lESSO TASK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

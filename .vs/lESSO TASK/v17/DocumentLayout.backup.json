@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\models\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:models\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\exseption\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:exseption\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesso task\\enums\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08C5340-3790-4FAC-9296-3325DC04FC81}|lESSO TASK.csproj|solutionrelative:enums\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Exseption\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Exseption\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Exseption\\ConflictException.cs",
+              "RelativeToolTip": "Exseption\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:05:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Models\\CardService.cs",
+              "RelativeDocumentMoniker": "Models\\CardService.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Models\\CardService.cs",
+              "RelativeToolTip": "Models\\CardService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:25:22.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Enums\\Bank.cs",
+              "RelativeDocumentMoniker": "Enums\\Bank.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Enums\\Bank.cs",
+              "RelativeToolTip": "Enums\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:40:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Interface\\ICardService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICardService.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Interface\\ICardService.cs",
+              "RelativeToolTip": "Interface\\ICardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:38:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:37:50.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\lESSO TASK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:26:54.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

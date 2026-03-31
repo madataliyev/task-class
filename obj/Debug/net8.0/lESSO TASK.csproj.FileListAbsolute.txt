@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.AssemblyInfo.cs
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\bin\Debug\net8.0\lESSO TASK.exe
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\bin\Debug\net8.0\lESSO TASK.deps.json
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\bin\Debug\net8.0\lESSO TASK.runtimeconfig.json
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\bin\Debug\net8.0\lESSO TASK.dll
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\bin\Debug\net8.0\lESSO TASK.pdb
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.dll
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\refint\lESSO TASK.dll
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.pdb
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\lESSO TASK.genruntimeconfig.cache
+C:\Users\Classtime.PC_3_506_5\source\repos\lESSO TASK\obj\Debug\net8.0\ref\lESSO TASK.dll
