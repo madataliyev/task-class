@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\models\\cargoservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\models\\cargoservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:models\\cargoservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\interface\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\interface\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:interface\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\source\\repos\\lesson task 1\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\task\\lesson task 1\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F954B06-8A73-4FDB-8699-80B12C4A1F6F}|Lesson task 1.csproj|solutionrelative:models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,87 +44,81 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CargoSErvis.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\CargoSErvis.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\CargoSErvis.cs",
               "RelativeDocumentMoniker": "Models\\CargoSErvis.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\CargoSErvis.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\CargoSErvis.cs",
               "RelativeToolTip": "Models\\CargoSErvis.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwC4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:03:19.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T14:03:19.094Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ICargoService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Interface\\ICargoService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Interface\\ICargoService.cs",
               "RelativeDocumentMoniker": "Interface\\ICargoService.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Interface\\ICargoService.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Interface\\ICargoService.cs",
               "RelativeToolTip": "Interface\\ICargoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:56:32.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T13:56:32.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:32:05.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T13:32:05.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CargoOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\CargoOrder.cs",
               "RelativeDocumentMoniker": "Models\\CargoOrder.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\CargoOrder.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\CargoOrder.cs",
               "RelativeToolTip": "Models\\CargoOrder.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:13:39.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T13:13:39.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Courier.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\Courier.cs",
               "RelativeDocumentMoniker": "Models\\Courier.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\Courier.cs",
               "RelativeToolTip": "Models\\Courier.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:13:24.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T13:13:24.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Models\\Customer.cs",
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:12:39.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T13:12:39.369Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\source\\repos\\Lesson task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Task\\Lesson task 1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
