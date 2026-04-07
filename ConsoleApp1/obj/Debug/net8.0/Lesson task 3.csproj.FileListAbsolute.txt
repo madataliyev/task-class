@@ -1,5 +1,0 @@
-C:\Users\Classtime.PC_3_506_5\Desktop\Task\ConsoleApp1\obj\Debug\net8.0\Lesson task 3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Classtime.PC_3_506_5\Desktop\Task\ConsoleApp1\obj\Debug\net8.0\Lesson task 3.AssemblyInfoInputs.cache
-C:\Users\Classtime.PC_3_506_5\Desktop\Task\ConsoleApp1\obj\Debug\net8.0\Lesson task 3.AssemblyInfo.cs
-C:\Users\Classtime.PC_3_506_5\Desktop\Task\ConsoleApp1\obj\Debug\net8.0\Lesson task 3.csproj.CoreCompileInputs.cache
-C:\Users\Classtime.PC_3_506_5\Desktop\Task\ConsoleApp1\obj\Debug\net8.0\Lesson task 3.sourcelink.json

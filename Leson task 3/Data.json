@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "Title": "Xosrov",
+    "Author": "Nizami",
+    "PageCount": 200,
+    "Price": 20,
+    "StockCount": 10,
+    "Genre": 5,
+    "CreatedAt": "2026-04-07T18:54:47.4981927+04:00"
+  },
+  {
+    "ID": 2,
+    "Title": "Seyfeli",
+    "Author": "Nizami",
+    "PageCount": 300,
+    "Price": 30,
+    "StockCount": 15,
+    "Genre": 5,
+    "CreatedAt": "2026-04-07T18:54:47.50027+04:00"
+  }
+]
